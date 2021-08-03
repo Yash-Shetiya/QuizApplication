@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="your_score">Your Score</string>
+    <string name="YashShetiya">Yash Shetiya</string>
+    <string name="contact">yash.7112000gmail.com</string>
+    <string name="quizapp">QuizApp</string>
+    <string name="developer">Developer</string>
+    <string name="back">Back</string>
+    <string name="start">Start</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="about">About</string>
+    <string name="todo">TODO</string>
+</resources>
